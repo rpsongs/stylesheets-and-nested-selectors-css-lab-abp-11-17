@@ -24,6 +24,12 @@ nav ul li {
   display: inline;
   margin-right: 10px;
 
+
+nav a {
+  text-decoration: 0;
+  color: #007bff;
+  font-size: 18px;
+    }
 nav a:hover {
   text-decoration: underline;
   color: #0056b3;
